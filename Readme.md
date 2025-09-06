@@ -2,8 +2,8 @@
 
 🚀 Senior Software Engineer | Backend Specialist | AI/ML Enthusiast  
 
-I design and build **scalable, high-performance systems** with expertise across backend, frontend, and cloud technologies.  
-Passionate about **distributed systems, developer productivity, and applied AI (LLMs, RAG, and prompt engineering).**
+I design and build **scalable, high-performance systems** with expertise across backend, and cloud technologies.  
+Passionate about **distributed systems and applied AI (LLMs, RAG, and prompt engineering).**
 
 ---
 
@@ -15,7 +15,6 @@ Passionate about **distributed systems, developer productivity, and applied AI (
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="ReactJS" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>

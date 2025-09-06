@@ -53,3 +53,7 @@ Passionate about **distributed systems and applied AI (LLMs, RAG, and prompt eng
 - **System Design**: Large-scale integrations, high availability patterns  
 - **AI/ML Integration**: LLM applications, RAG pipelines, fine-tuning  
 - **Developer Productivity**
+
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+

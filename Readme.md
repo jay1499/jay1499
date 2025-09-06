@@ -9,6 +9,10 @@ Passionate about **distributed systems and applied AI (LLMs, RAG, and prompt eng
 
 ## 🛠️ Tech Stack
 
+<p align="center">
+  <img align="right" alt="Coding GIF" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+</p>
+
 ### 🚀 Languages & Frameworks  
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>

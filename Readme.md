@@ -27,13 +27,11 @@ Passionate about **distributed systems and applied AI (LLMs, RAG, and prompt eng
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="Redis" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/kafka.svg" alt="Kafka" width="40" height="40"/>
-  <img src="https://www.rabbitmq.com/img/RabbitMQ-logo.svg" alt="RabbitMQ" width="80" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" alt="Elasticsearch" width="40" height="40"/>
 </p>
 
 ### ☁️ Cloud & DevOps  
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/>
@@ -45,7 +43,6 @@ Passionate about **distributed systems and applied AI (LLMs, RAG, and prompt eng
 <p align="left">
   <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="Hugging Face" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/openai-2.svg" alt="OpenAI" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/langchain-logo.svg" alt="LangChain" width="120" height="40"/>
   <img src="https://vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="Fine-tuning" width="40" height="40"/>
 </p>
 

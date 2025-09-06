@@ -9,13 +9,9 @@ Passionate about **distributed systems and applied AI (LLMs, RAG, and prompt eng
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img align="right" alt="Coding GIF" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
-</p>
+<img align="right" alt="Coding" width="600" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWtjd3Ztd25od3V2dzQxdnNtd3dpa3o1Z2o2dzRqd25iYjczcmtzMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwGsXF0aiGY/giphy.gif">
 
 ### 🚀 Languages & Frameworks  
-
-<img align="right" alt="Coding" width="600" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWtjd3Ztd25od3V2dzQxdnNtd3dpa3o1Z2o2dzRqd25iYjczcmtzMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwGsXF0aiGY/giphy.gif">
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>

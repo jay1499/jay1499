@@ -9,56 +9,51 @@ Passionate about **distributed systems, developer productivity, and applied AI (
 
 ## 🛠️ Tech Stack
 
-### Backend  
-- **Languages/Frameworks**: Java (Spring Boot), Python (Django, FastAPI)  
-- **Architecture**: Microservices, Event-driven systems  
-- **Messaging**: Kafka, RabbitMQ  
+### 🚀 Languages & Frameworks  
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="ReactJS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+</p>
 
-### Frontend  
-- React.js, JavaScript (ES6+), HTML5, CSS3  
+### 🗄️ Databases & Messaging  
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="Redis" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/kafka.svg" alt="Kafka" width="40" height="40"/>
+  <img src="https://www.rabbitmq.com/img/RabbitMQ-logo.svg" alt="RabbitMQ" width="80" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" alt="Elasticsearch" width="40" height="40"/>
+</p>
 
-### Databases & Storage  
-- Relational: MySQL, PostgreSQL  
-- NoSQL: MongoDB, Redis  
-- Search & Analytics: Elasticsearch  
-- Vector DBs: Pinecone, Weaviate, FAISS  
+### ☁️ Cloud & DevOps  
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40"/>
+  <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" alt="Git" width="40" height="40"/>
+</p>
 
-### Cloud & DevOps  
-- **Cloud**: AWS (EC2, S3, Lambda, RDS, EKS, etc.)  
-- **Infrastructure as Code**: Terraform  
-- **Containers & Orchestration**: Docker, Kubernetes  
-- **CI/CD**: Jenkins, Codeship, GitHub Actions  
-- **Monitoring & Alerting**: Datadog, NewRelic, Grafana, Sentry, OpsGenie  
-
-### AI/ML & LLMs  
-- Prompt Engineering, LangChain, RAG (Retrieval-Augmented Generation)  
-- OpenAI API, Hugging Face Transformers  
-- Fine-tuning & evaluation pipelines  
-
----
-
-## 📈 What I Do
-- Architect and implement **high-throughput data pipelines**  
-- Build **fault-tolerant distributed systems** with Kafka/RabbitMQ  
-- Design **microservices** optimized for scalability and resilience  
-- Develop **AI-powered applications** with LLMs and RAG workflows  
-- Automate infra & deployments using **Terraform, Docker, and Kubernetes**  
-- Enhance reliability through **monitoring, alerting, and CI/CD pipelines**  
+### 🤖 AI/ML & LLMs  
+<p align="left">
+  <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="Hugging Face" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/openai-2.svg" alt="OpenAI" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/langchain-logo.svg" alt="LangChain" width="120" height="40"/>
+  <img src="https://vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="Fine-tuning" width="40" height="40"/>
+</p>
 
 ---
 
 ## 📊 Highlighted Skills
 - **Performance Optimization**: Profiling, caching, query tuning  
 - **System Design**: Large-scale integrations, high availability patterns  
-- **AI/ML Integration**: LLM applications, custom pipelines, fine-tuning  
-- **Developer Productivity**: Tooling, automation, and CI/CD best practices  
-
----
-
-## 📫 Let’s Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/jayanthav)  
-- 🐙 [GitHub](https://github.com/yourusername)  
-- ✉️ Reach me at: your.email@example.com  
-
----
-⭐️ *Always curious, always learning — building the future one system at a time.*
+- **AI/ML Integration**: LLM applications, RAG pipelines, fine-tuning  
+- **Developer Productivity**
